@@ -3,4 +3,4 @@ SASLib
 ShiftedArrays
 DataFrames
 Missings
-Compat.Dates
+Compat
